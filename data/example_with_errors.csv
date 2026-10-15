@@ -1,0 +1,5 @@
+sample_id,condition,replicate,reads
+S001,Control,1,100000
+S002,Control,2,120000
+S002,Treatment,1,110000
+S004,Treatment,2,140000
